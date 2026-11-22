@@ -4,7 +4,7 @@ window.SiAkad = window.SiAkad || {};
 (function(App) {
   // GANTI DENGAN URL DAN ANON KEY DARI DASHBOARD SUPABASE ANDA
   const SUPABASE_URL = "https://iouqqpkfwnhawnchylrd.supabase.co";
-  const SUPABASE_ANON_KEY = "MASUKKAN_ANON_KEY_ANDA_DI_SINI"; 
+  const SUPABASE_ANON_KEY = "sb_publishable_wDop9fkDPMfsu9-Uh0MzLA_U-3RWfZy"; 
 
   // Inisialisasi Supabase Client
   const { createClient } = supabase;
